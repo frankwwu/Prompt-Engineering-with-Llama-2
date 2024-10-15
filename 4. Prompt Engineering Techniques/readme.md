@@ -1,15 +1,15 @@
 # 4. Prompt Engineering Techniques
 
-![](videoframe_89010.png)
+![](Slides/videoframe_89010.png)
 
 ---
 
-![](videoframe_201212.png)
+![](Slides/videoframe_201212.png)
 
 ---
 
-![](videoframe_262574.png)
+![](Slides/videoframe_262574.png)
 
 ---
 
-![](videoframe_1248412.png)
+![](Slides/videoframe_1248412.png)
