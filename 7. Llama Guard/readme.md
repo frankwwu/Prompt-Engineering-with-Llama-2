@@ -1,24 +1,24 @@
 # 7. Llama Guard
 
-![](videoframe_49055.png)
+![](Slides/videoframe_49055.png)
 
 ---
 
-![](videoframe_164110.png)
+![](Slides/videoframe_164110.png)
 
 ---
 
-![](videoframe_177759.png)
+![](Slides/videoframe_177759.png)
 
 ---
 
-![](videoframe_209406.png)
+![](Slides/videoframe_209406.png)
 
 ---
 
-![](videoframe_235059.png)
+![](Slides/videoframe_235059.png)
 
 ---
 
-![](videoframe_240772.png)
+![](Slides/videoframe_240772.png)
 
